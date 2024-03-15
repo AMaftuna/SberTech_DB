@@ -15,15 +15,19 @@
 # Запросы на удаление
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/20.png)
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/21.png)
-# Запросы обновления
+# Запросы на обновления
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/22.png)
-# Время выполнение с индексом и без индеска
-![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/11.png)
-![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/12.png)
-![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/13.png)
-![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/17.png)
-![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/18.png)
-![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/14.png)
-![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/15.png)
-![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/16.png)
-# Вывод: С индексом скорость уменьшилась.
+# Время выполнение без индеска
+![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/23.png)
+![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/24.png)
+![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/25.png)
+![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/26.png)
+# Время выполнение с индеском
+![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/27.png)
+![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/28.png)
+![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/29.png)
+![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/30.png)
+![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/31.png)
+![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/32.png)
+
+# Вывод: С индексом скорость увеличилась.
