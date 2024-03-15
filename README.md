@@ -17,12 +17,12 @@
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/21.png)
 # Запросы на обновление
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/22.png)
-# Время выполнения без индеска
+# Время выполнения без индекса
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/23.png)
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/24.png)
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/25.png)
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/26.png)
-# Время выполнения с индеском
+# Время выполнения с индексом
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/27.png)
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/28.png)
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/29.png)
