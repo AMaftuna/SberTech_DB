@@ -15,7 +15,7 @@
 # Запросы на удаление
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/20.png)
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/21.png)
-# Запросы на обновления
+# Запросы на обновление
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/22.png)
 # Время выполнение без индеска
 ![screen](https://github.com/AMaftuna/SberTech_DB/blob/hw1/img/23.png)
